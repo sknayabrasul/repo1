@@ -1,0 +1,12 @@
+2022/03/04-17:18:49.024 4994 Reusing MANIFEST C:\Users\shaik\AppData\Local\BraveSoftware\Brave-Browser\User Data\Default\Local Storage\leveldb/MANIFEST-000001
+2022/03/04-17:18:49.027 4994 Recovering log #3
+2022/03/04-17:18:49.029 4994 Reusing old log C:\Users\shaik\AppData\Local\BraveSoftware\Brave-Browser\User Data\Default\Local Storage\leveldb/000003.log 
+2022/03/04-17:19:49.973 4994 Level-0 table #5: started
+2022/03/04-17:19:49.975 4994 Level-0 table #5: 24514 bytes OK
+2022/03/04-17:19:49.977 4994 Delete type=0 #3
+2022/03/04-17:42:17.976 2d28 Level-0 table #7: started
+2022/03/04-17:42:17.979 2d28 Level-0 table #7: 27324 bytes OK
+2022/03/04-17:42:17.981 2d28 Delete type=0 #4
+2022/03/04-17:50:49.968 2d28 Level-0 table #9: started
+2022/03/04-17:50:49.971 2d28 Level-0 table #9: 30726 bytes OK
+2022/03/04-17:50:49.973 2d28 Delete type=0 #6

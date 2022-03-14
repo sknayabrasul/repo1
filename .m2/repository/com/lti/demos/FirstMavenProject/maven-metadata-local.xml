@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.lti.demos</groupId>
+  <artifactId>FirstMavenProject</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20220314130659</lastUpdated>
+  </versioning>
+</metadata>
