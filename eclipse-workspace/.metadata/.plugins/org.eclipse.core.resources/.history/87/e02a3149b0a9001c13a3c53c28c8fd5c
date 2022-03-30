@@ -1,0 +1,48 @@
+package com.lti.beans;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.annotation.Qualifier;
+import org.springframework.beans.factory.annotation.Value;
+
+public class Employee {
+	@Value("rasul")
+ 
+	private String empName;
+	
+	@Autowired
+	@Qualifier("e1")
+	
+    private Address address;
+	public Address getAddress() {
+		return address;
+	}
+
+	public void setAddress(Address address) {
+		this.address = address;
+	}
+
+	public String getEmpName() {
+		return empName;
+	}
+
+	public void setEmpName(String empName) {
+		this.empName = empName;
+	}
+
+	public Employee(String empName) {
+		super();
+		this.empName = empName;
+	}
+
+	public Employee() {
+		super();
+	}
+
+	@Override
+	public String toString() {
+		return "Employee [empName=" + empName + ", address=" + address + "]";
+	}
+
+
+	
+	}

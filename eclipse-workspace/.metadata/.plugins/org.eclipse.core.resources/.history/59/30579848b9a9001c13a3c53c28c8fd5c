@@ -1,0 +1,9 @@
+package com.lti.beans;
+
+public class EmployeeConfig {
+
+	public static void main(String[] args) {
+		
+	}
+
+}
